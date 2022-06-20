@@ -42,7 +42,7 @@ namespace AgeGenderDetect
                     genderAge = AnalyzingPhoto(face, currentFrame);
 
                     CvInvoke.Rectangle(currentFrame, face, new Bgr(Color.Purple).MCvScalar, 2);
-                    CvInvoke.PutText(currentFrame, $"{genderAge.Item1},{genderAge.Item2}", new Point(face.X - 10, face.Bottom + 30), 
+                    CvInvoke.PutText(currentFrame, $"{genderAge.Item1}а,{genderAge.Item2}", new Point(face.X - 10, face.Bottom + 30), 
                         FontFace.HersheyComplex, 1, new MCvScalar(255, 0, 0), 1);
 
                     ageGenderTuple.Add(genderAge);
