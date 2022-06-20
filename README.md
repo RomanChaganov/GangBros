@@ -16,4 +16,4 @@
 # Интерфейс приложения
 Приложение имеет простой интерфейс, написанный на Winforms с использованием MaterialSkin от Google. Дизайн составлен без использования стандартного Winforms-дизайнера, то есть весь код писался полностью самостоятельно.
 
-![Иллюстрация к проекту]([https://github.com/RomanChaganov/GangBros](https://github.com/RomanChaganov/GangBros/blob/master/Resources/mainPicture.png)
+![Иллюстрация к проекту](https://github.com/RomanChaganov/GangBros/blob/master/Resources/mainPicture.png)
