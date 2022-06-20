@@ -20,6 +20,7 @@ namespace AgeGenderDetect
             get { return genderAge; }
             set
             {
+                if (value != null)
                     genderAge = value;
             }
         }
