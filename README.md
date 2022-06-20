@@ -20,4 +20,4 @@
 
 При нажатии на кнопку просмотр, появляется дополнительное окно, в котором можно увидеть непосредственно изображение с видеокамеры, а так же вокруг лица будет прямоугольник, а вместе с ним будет указан пол и категория возраста.
 
-![Иллюстрация к проекту](https://github.com/RomanChaganov/GangBros/blob/master/Resources/secondPicture.png)
+![Иллюстрация к проекту](https://github.com/RomanChaganov/GangBros/blob/master/Resources/second1Picture.png)
